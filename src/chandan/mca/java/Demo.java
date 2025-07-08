@@ -1,4 +1,4 @@
-package mca.javadsa;
+package chandan.mca.java;
 
 public class Demo {
 	public static void main(String [] args) {

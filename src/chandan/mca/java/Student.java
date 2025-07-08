@@ -1,4 +1,4 @@
-package mca.javadsa;
+package chandan.mca.java;
 
 public class Student {
 
